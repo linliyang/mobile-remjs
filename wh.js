@@ -3,7 +3,7 @@
  */
 (function(){
     // 动态设置html字体大小
-    var psdWidth = 1080; //效果图宽度
+    var psdWidth = 750; //效果图宽度
     var psdHeight = 1620; //效果图单屏高度,单屏效果时用到
     var psdFont = 100; //效果图下对应的html字体大小
     var fixRoot = function(){

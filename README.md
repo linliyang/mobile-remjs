@@ -1,13 +1,9 @@
 # remjs
 
-
-## install from gogs
-    
-    $ npm install git+ssh://git@gogs.newgame.com.cn:ngfe/remjs.git --save
     
 ## install from gitlab
 
-    $ npm install git+ssh://git@gitlab.com:ngfe/remjs.git --save
+    $ npm install git+https://github.com/linliyang/mobile-remjs.git --save
         
 
 ## fis.config

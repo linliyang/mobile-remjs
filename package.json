@@ -1,5 +1,5 @@
 {
-  "name": "mobile-remjs",
+  "name": "ngfe-remjs",
   "version": "0.0.1",
   "description": "rem自适应脚本",
   "main": "w.js",
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:linliyang/mobile-remjs.git"
+    "url": "git@gitlab.com:ngfe/remjs.git"
   },
-  "author": "linliyang",
+  "author": "ngfe",
   "license": "ISC"
 }
